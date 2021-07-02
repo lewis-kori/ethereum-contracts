@@ -20,12 +20,12 @@ The coin smart contract implements a fully compliant [ERC20 token](https://ether
 
 ### ICO
 
-The ICO smart contract implements an initial coin offering for the [coin](#Coin) ERC20.
+The ICO smart contract implements an initial coin offering for the [ERC20 coin](#Coin).
 
 #### how to run the contracts
 
-The easiest way to run the smart contracts here is by copying them onto the remix ide which is an online IDE highly optimized for solidity.
+The easiest way to run the smart contracts is by copying them onto the remix IDE which is an online IDE highly optimized for solidity.
 
 You can also clone the code to your local machine and run from a text editor/editor.
 
-Make sure to have a local eth installed such as [hardhat](https://hardhat.org/) or [ganache](https://www.trufflesuite.com/ganache).
+Make sure to have a local eth environment installed such as [hardhat](https://hardhat.org/) or [ganache](https://www.trufflesuite.com/ganache).
