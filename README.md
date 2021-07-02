@@ -2,7 +2,7 @@
 
 The repo contains a collection of smart contracts I implemented while learning
 and understanding blockchain programming, specifically the ethereum network.
-The primary language used to implement the smart contracts is [solidity][https://soliditylang.org/]
+The primary language used to implement the smart contracts is [solidity](https://soliditylang.org/)
 
 ## projects description
 
