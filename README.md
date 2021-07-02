@@ -13,6 +13,7 @@ The auction smart contract implements an auction functionality similar to ebay's
 ### Crowdfund
 
 The Crowdfund smart contract mirrors kickstarter functionality.
+A full-stack web app version of this can be found [in this repository](https://github.com/lewis-kori/web3-kickstarter).
 
 ### Coin
 
